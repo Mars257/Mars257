@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mars257
+- 🇧🇷 I'm Brazilian.
+- 👀 I’m interested in arts and puzzles.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on online projects.
+- 📫 I can be contacted by: 257mars@gmail.com
